@@ -52,7 +52,7 @@ const burgers = [
   },
   {
     img: "https://images.unsplash.com/photo-1683882330182-eb8f64d7231c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bXVzaHJvb20lMjBidXJnZXIlMjBDcmVhbXklMjBtdXNocm9vbSUyMHNhdWNlJTIwd2l0aCUyMG1lbHRlZCUyMGNoZWVzZS58ZW58MHx8MHx8fDA%3D",
-    name: "Mushroom Burger",
+    name: "Mush Melt",
     price: 209,
     intro: "Creamy mushroom sauce with melted cheese.",
     // tag:0,
@@ -60,7 +60,7 @@ const burgers = [
   },
   {
     img: "https://images.unsplash.com/photo-1599155253646-7989e08c05c1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGRvdWJsZSUyMHBhdHR5JTIwYnVyZ2VyfGVufDB8fDB8fHww",
-    name: "Double Patty Burger",
+    name: "Patty Burger",
     price: 249,
     intro: "Two juicy patties with extra cheese and veggies.",
     // tag:0,
@@ -68,7 +68,7 @@ const burgers = [
   },
   {
     img: "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGJ1cmdlcnxlbnwwfHwwfHx8MA%3D%3D",
-    name: "Crispy Crunch Burger",
+    name: "Crispy  Burger",
     price: 189,
     intro: "Extra crispy chicken with crunchy lettuce.",
     // tag:0,
